@@ -6,6 +6,7 @@ libvlc调用示例程序
    windows端使用过程，请参见本人博客 https://blog.csdn.net/u014644466/article/details/85675107
    
 二、linux端
+
    （1）下载vlc源代码
 
           本人下载的是vlc-3.0.4。
