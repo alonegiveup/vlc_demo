@@ -9,7 +9,7 @@ libvlc调用示例程序
 
    （1）下载vlc源代码
 
-          本人下载的是vlc-3.0.4。
+          本人下载的是vlc-3.0.4。https://github.com/alonegiveup/vlc_demo/blob/master/Linux/vlc-3.0.4.tar.xz
 
    （2）编译环境搭建
    
